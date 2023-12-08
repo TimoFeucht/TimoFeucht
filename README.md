@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 💻 I am currently studying at [Cooperative State University Stuttgart](https://www.dhbw-stuttgart.de/) and working at [Robert Bosch GmbH](https://www.bosch.de/)
+- 🔍 Focus on 🐍 Python and 🤖 Maschine Learning 
+
 <!--
 **TimoFeucht/TimoFeucht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
