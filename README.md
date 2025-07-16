@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 💻 I am currently studying at [Cooperative State University Stuttgart](https://www.dhbw-stuttgart.de/) and working at [Robert Bosch GmbH](https://www.bosch.de/)
-- 🔍 Focus on 🐍 Python, Julia and 🤖 Maschine Learning 
+- 💻 I am DevOps Engineer at [Bosch BT](https://www.boschbuildingsolutions.com/xc/en/)
+- 🔍 Focus on Angular, Java and Azure
 
 <!--
 **TimoFeucht/TimoFeucht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
